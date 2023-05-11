@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"testCase": "npx playwright test"
+    "testCase": "npx playwright test"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@playwright/test": "^1.33.0"
+    "@playwright/test": "^1.33.0",
+    "playwright-core": "^1.33.0"
   }
 }
